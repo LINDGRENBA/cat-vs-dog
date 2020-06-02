@@ -18,7 +18,7 @@ This project uses JavaScript and jQuery to create a fun interactive web page whe
 
 ## Known Bugs
 
-There are no known bugs at this time. 
+The .remove() function does not work at this time. 
 
 ## Support and contact details
 
